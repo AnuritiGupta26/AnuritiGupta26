@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/84188cf3-2436-4bf8-90ab-572fa0ca64df)
 <h1 align="center">Hi 👋, I'm Anuriti Gupta</h1>
 <h3 align="center">Hi, I'm Anuriti Gupta, GenAI Engineer & Software Developer from India</h3>
 
