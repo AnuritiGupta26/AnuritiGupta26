@@ -13,8 +13,7 @@
 - 📚 Exploring **LLM, Firebase, and GenAI APIs**.
 - 🎤 Chairperson of **ACM BBDNITM**, organized hackathons & speaker sessions.
 - 🏆 **'Student of the Year' Awardee 2025 of my college**.
-- 📝 **Check out my resume:** [My Resume]([https://drive.google.com/your-resume-link](https://drive.google.com/file/d/1BAqXX-qzUavUPrEwEvcoXcNsTn4LoQbA/view?usp=drive_link))
-
+- 📝 **Check out my resume:** [My Resume](https://drive.google.com/file/d/1BAqXX-qzUavUPrEwEvcoXcNsTn4LoQbA/view?usp=drive_link)
 - 📫 How to reach me **anuritigupta26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
