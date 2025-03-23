@@ -6,6 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuritigupta26&label=Profile%20views&color=0e75b6&style=flat" alt="anuritigupta26" /> </p>
 
+### About Me:
+- 🎓 I'm currently studying **B.Tech CSE (AI/ML)** at **AKTU, Lucknow**.
+- 💻 I love writing code and learning new technologies.
+- 🚀 Currently working on **AI-based research tools and StockVision**.
+- 📚 Exploring **React, Firebase, and GenAI APIs**.
+- 🎤 Chairperson of **ACM BBDNITM**, organized hackathons & speaker sessions.
+- 🏆 **'Student of the Year' Awardee & SIH 2024 Finalist**.
 - 📫 How to reach me **anuritigupta26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
